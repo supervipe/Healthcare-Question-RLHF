@@ -27,24 +27,6 @@ desktop.ini
 .coverage
 htmlcov/
 
-outputs/
-checkpoints/
-runs/
-logs/
-*.log
-wandb/
-lightning_logs/
-tensorboard/
-events.out.tfevents.*
-
-models/
-.cache/
-huggingface/
-hf_cache/
-.cache_dir/
-vllm_cache/
-serving_cache/
-
 *.pid
 *.tmp
 
